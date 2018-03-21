@@ -1,0 +1,6 @@
+/temp/*
+.secret
+
+temp
+*.sublime-project
+*.sublime-workspace
